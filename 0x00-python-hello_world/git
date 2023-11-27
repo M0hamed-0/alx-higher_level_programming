@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m ayo_wtf
+git commit -m ayo\ wtf
 git push
