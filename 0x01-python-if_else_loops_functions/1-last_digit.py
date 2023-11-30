@@ -11,6 +11,6 @@ else:
 if lastd > 5:
     print(f"Last digit of {temp} is {lastd} and is greater than 5")
 elif lastd < 6 and lastd != 0:
-    print(f"Last digit of {temp} is {lastd} and is less than 6")
+    print(f"Last digit of {temp} is {lastd} and is less than 6 and not 0")
 else:
     print(f"Last digit of {temp} is {lastd} and is 0")
