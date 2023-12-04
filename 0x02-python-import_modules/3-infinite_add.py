@@ -9,7 +9,7 @@ if __name__ == "__main__":
     file_path = f"./{fileName}"
     i = 0
     summ = 0
-    
+
     if argsCount == 1:
         print("0")
     elif argsCount == 2:
