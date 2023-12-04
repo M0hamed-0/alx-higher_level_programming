@@ -2,13 +2,13 @@
 if __name__ == "__main__":
     import sys
     import os
-    
+
     args = sys.argv
     argsCount = len(args)
     fileName = os.path.basename(__file__)
     file_path = f"./{fileName}"
     i = 0
-    
+
     if argsCount == 1:
         print("0 arguments.")
     elif argsCount == 2:
