@@ -22,4 +22,3 @@ if __name__ == "__main__":
             i += 1
             summ += int(args[i])
         print("{}".format(summ))
-
